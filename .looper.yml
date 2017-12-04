@@ -6,6 +6,6 @@ tools:
     
 flows:
   default:
-    - echo "Hello test Looper !"
+    - echo "Hello Looper 123! Testing Push"
   pr:
-    - echo " PR Request"
+    - echo "Test PR Request"
