@@ -10,5 +10,3 @@ four
 five
 
 six
-
-seven
